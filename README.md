@@ -1,10 +1,10 @@
 - 🎸 Hi, I’m @juliacdp ♡
-- 🖥️ I’m interested in Software Development, Biomedicine and Bioinformatics
-- 🌱 I’m currently learning C# & Python
+- 🖥️ Interested in Backend Development and Data Science
 - 🧬 I’m looking to start my bioinformatics journey
 - 📼 How to reach me: LinkedIn!
-- 🧫 I'm a passionate medical laboratory tech 🔬
-- ⚡ Fun fact: I have been learning japanese for 8 years. I really like studying languages! 🎌
+- 🧫 Current ocupation: Biotech student / graduate Medical Laboratory Technologist 🔬
+- ⚡ Learning: C/C#/Python (high code ftw)
+- 🌎 Language knowledge: Spanish/English/Japanese/French/German
 
 <!---
 juliacdp/juliacdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
